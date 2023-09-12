@@ -1,0 +1,40 @@
+_repo: Little-Sunshine-s-holiday-b-A-picture-from-life_71576
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Ethelred Breeze
+    birthdate: 1870
+    deathdate: 1967
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+  - agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Miss
+    - Mulock, Dinah Maria
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: https://en.wikipedia.org/wiki/Dinah_Craik
+description: ''
+gutenberg_issued: '2023-09-06'
+identifiers:
+  gutenberg: '71576'
+language: en
+pgterms:marc905: 20200103153324craik
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Donald Cummings, David E. Brown, Ed Leckert, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bL. C. Page & Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Little Sunshine''s holiday : $b A picture from life'
+url: http://www.gutenberg.org/ebooks/71576
